@@ -4,3 +4,9 @@ This app was made by and in android studio with kotlin code this app assists use
 
 
 ![image](https://github.com/user-attachments/assets/e15bfa47-8848-407d-bfc0-856c5b481152)
+
+![code1](https://github.com/user-attachments/assets/4412f188-3579-4d12-91bc-0f232508a9bd)
+
+![code2](https://github.com/user-attachments/assets/399bf730-a1e7-4955-b4c7-5185a186712b)
+
+[https://youtu.be/bXJrYJl1qvY](https://youtu.be/bXJrYJl1qvY)
